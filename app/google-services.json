@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1090591230812",
+    "firebase_url": "https://tangwong-f1feb.firebaseio.com",
+    "project_id": "tangwong-f1feb",
+    "storage_bucket": "tangwong-f1feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090591230812:android:4571552d81147d97",
+        "android_client_info": {
+          "package_name": "com.tangwong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090591230812-86q3lgod2bblcdsct3d01tjcog6ba8a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tangwong",
+            "certificate_hash": "f3d05fa91052d5ee2ec2bd8e5bb1a4cbadfd26f4"
+          }
+        },
+        {
+          "client_id": "1090591230812-9do10236vcsse7mo3efheko7kteqo82q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_MygmUxL1ku1gUcnUaIYT-6vYZ5GgKsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090591230812-9do10236vcsse7mo3efheko7kteqo82q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
